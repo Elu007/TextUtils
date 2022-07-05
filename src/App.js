@@ -57,7 +57,7 @@ function App() {
        <Navbar title="TextUtils" home={"Home"} aboutText={"About"} mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
       <div className="container my-3">
-        <TextForm heading="Enter the text: " showAlert={showAlert} mode={mode} />
+        <TextForm heading="Text Utils- Word Counter, Character Counter " showAlert={showAlert} mode={mode} />
       </div>
       <About mode={mode} toggleMode={toggleMode} />
     </>
