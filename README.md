@@ -1,7 +1,7 @@
 
 # TextUtils
 
-Its a complete ReactJs project, here we have many functionalities. Over all it is a utiliy app that helps blog writers and other writers.
+It is a complete ReactJs project, here we have many functionalities. Overall it is a utility app that helps blog writers and other writers.
 
 
 ## Features
@@ -11,7 +11,7 @@ Its a complete ReactJs project, here we have many functionalities. Over all it i
 - Convert text to uppercase or lowercase
 - Remove extra spaces
 - Copy and Clear text
-- You can check total numbers of words and characters, with approx reading time.
+- You can check the total numbers of words and characters, with approx reading time.
 
 
 ## Screenshots
@@ -31,7 +31,7 @@ Its a complete ReactJs project, here we have many functionalities. Over all it i
 
 ## Demo
 
-Click here to check live demo https://elu007.github.io/TextUtils/
+Click here to check the live demo https://elu007.github.io/TextUtils/
 
 
 ## Tech Stack
@@ -44,11 +44,11 @@ Click here to check live demo https://elu007.github.io/TextUtils/
 
 Contributions are always welcome!
 
-If you want to contribute to this project with some additional and awesome features, raise a issue and create pull request, and you pull request will accept after validation.
+If you want to contribute to this project with some additional and awesome features, raise an issue and create a pull request, and your pull request will accept after validation.
 
 
 ## 🚀 About Me
-Click here to check about me https://github.com/Elu007
+Click here to check out about me https://github.com/Elu007
 
 
 ## 🔗 Links
